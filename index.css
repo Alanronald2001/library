@@ -1,0 +1,14 @@
+#library {
+  display: grid;
+  grid-template-columns: 1fr 1fr 1fr;
+  gap: 1rem;
+}
+
+#add {
+  margin-bottom: 10px;
+}
+.card {
+  border: 1px solid black;
+  border-radius: 6px;
+  padding: 8px;
+}
